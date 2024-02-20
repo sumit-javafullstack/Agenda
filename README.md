@@ -1,12 +1,12 @@
 # AgendaJavaFullStack
 
 ## 1) MicroServices Architecture with SpringBoot-2
-### a) Service Discovery and Load Balancing
-### b) API Gateway
-### c) Circuit Breakers and Resilience Patterns
-### d) Centralized Configuration
-### e) Distributed Tracing
-### f) Security and Authentication
+##### a) Service Discovery and Load Balancing
+##### b) API Gateway
+##### c) Circuit Breakers and Resilience Patterns
+##### d) Centralized Configuration
+##### e) Distributed Tracing
+##### f) Security and Authentication
  1) GIT ( resolve conflict )
  2) Java 8 features with coding
  3) ENUM in java
