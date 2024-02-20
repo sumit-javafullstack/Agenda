@@ -1,9 +1,9 @@
 # AgendaJavaFullStack
 
-#1) GIT ( resolve conflict )
-#2) Java 8 features with coding
-#3) ENUM in java
-#3) SpringBoot CRUD with below features
+# 1) GIT ( resolve conflict )
+# 2) Java 8 features with coding
+# 3) ENUM in java
+# 3) SpringBoot CRUD with below features
         a) Use lombok
         b) JPA and Hibernate properties
         c) PUT along with exception handling
