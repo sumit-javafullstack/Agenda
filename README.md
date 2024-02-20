@@ -7,6 +7,11 @@
 ##### d) Centralized Configuration
 ##### e) Distributed Tracing
 ##### f) Security and Authentication
+
+## 1) SpringBoot Dependency Injection
+##### a) Creation of custom beans
+##### b) Access of spring managed beans
+##### c) Qualifers to acces specific beand for more than 1 implementation
  1) GIT ( resolve conflict )
  2) Java 8 features with coding
  3) ENUM in java
