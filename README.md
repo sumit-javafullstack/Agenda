@@ -1,9 +1,9 @@
 # AgendaJavaFullStack
 
-1) GIT ( resolve conflict )
-2) Java 8 features with coding
-3) ENUM in java
-3) SpringBoot CRUD with below features
+#1) GIT ( resolve conflict )
+#2) Java 8 features with coding
+#3) ENUM in java
+#3) SpringBoot CRUD with below features
         a) Use lombok
         b) JPA and Hibernate properties
         c) PUT along with exception handling
@@ -12,9 +12,9 @@
         f) Cacheing
         g) Pagenation for efficient way of searching and filtering
         h ) File upload and access //https://www.bezkoder.com/spring-boot-upload-file-database/
-3.1) Migrate a springboot application from http to https
-4) Unit Testing and Integration Testing using mockito
-5) Kafka with below features:
+# 3.1) Migrate a springboot application from http to https
+# 4) Unit Testing and Integration Testing using mockito
+# 5) Kafka with below features:
       a) Publish-Subscribe Messaging:
       Utilize Kafka's publish-subscribe model to enable multiple consumers to subscribe to the same topic and receive copies of messages.
       b )Message Serialization:
@@ -32,19 +32,19 @@
       i) Batch Processing:
       Use Kafka for batch processing scenarios by consuming messages from topics that store batches of data.
 
-6) Spring Security with below features
+# 6) Spring Security with below features
         a) JWT token implementation
         b) Add logout functionality
-7) Docker
-8) MicroServices with SpringBoot 3
+# 7) Docker
+# 8) MicroServices with SpringBoot 3
         a) Service Discovery and Load Balancing
         b) API Gateway
         c) Circuit Breakers and Resilience Patterns
         d) Centralized Configuration
         e) Distributed Tracing
         f) Security and Authentication
-9) React
-10 ) Project on React and SpringBoot
+# 9) React
+# 10 ) Project on React and SpringBoot
         1) Flight reservation 
-11) AWS
+# 11) AWS
         
