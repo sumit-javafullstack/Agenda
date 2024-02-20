@@ -1,6 +1,6 @@
 # AgendaJavaFullStack
 
-## --------CORE_JAVA-----------
+## ----------------CORE_JAVA-----------------
 
  ### 1) Java 8 features with coding
   ##### Java 8 Functional Interface
@@ -12,7 +12,8 @@
  ### 3) String in java (Mutuable and non mutuable)
  ### 4) Method and Constructor Overloading and overriding in java 
  ### 5) GIT ( resolve conflict )
-## --------SPRINGBOOT-----------
+ 
+## ----------------SPRINGBOOT-----------------
 
 ### 1) SpringBoot Dependency Injection
 ##### Creation of custom beans
@@ -75,10 +76,10 @@
 ##### JWT token implementation
 ##### Add logout functionality
 
-## --------DEVOPS-----------
+## ------------DEVOPS----------------
 ### 1) Docker
 
-## --------FULL_STACK-----------
+## ------------FULL_STACK-------------
 ### 1) React
 ##### java script
 ##### React Life Cycle
@@ -86,6 +87,6 @@
 ##### 2) Project on React and SpringBoot
 ##### 3) e-commerce application
 
-## --------CLOUD-----------
+## -------------CLOUD----------------
 ##### AWS
         
