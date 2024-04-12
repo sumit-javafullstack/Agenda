@@ -11,14 +11,13 @@
 #####  Jackson properties
 #####  Spring Profile and specific properties files
 #####  Different way of accessing properties file values
-#####  Global Exceptional handling 
-#####  Rest Template Configuration in monolithic application
-
 
 ### 3) SpringBoot CRUD Opertion
 ##### Entity Class and field naming convention 
 ##### JPA and Hibernate validation dependency
 ##### PUT along with exception handling
+#####  Global Exceptional handling 
+#####  Rest Template Configuration in monolithic application
 ##### Cacheing
 ##### Pagenation for efficient way of searching and filtering
 ##### File upload and access //https://www.bezkoder.com/spring-boot-upload-file-database/
