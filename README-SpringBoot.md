@@ -14,6 +14,8 @@
 
 ### 3) SpringBoot CRUD Opertion
 ##### Entity Class and field naming convention 
+##### Configuring more than 1 database
+##### Hazelcast caching in SpringBoot 
 ##### JPA and Hibernate validation dependency
 ##### PUT along with exception handling
 #####  Global Exceptional handling 
