@@ -60,3 +60,5 @@
 ### 9) Spring Security with below features
 ##### JWT token implementation
 ##### Add logout functionality
+
+### 9) Spring Batch
