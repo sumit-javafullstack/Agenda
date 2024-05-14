@@ -37,11 +37,9 @@
 
 ### 6) Creating Client with Completeable Future and process improvemnet
 
-### 7) Accessing more then one db
+### 7) Unit Testing and Integration Testing using mockito
 
-### 8) Unit Testing and Integration Testing using mockito
-
-### 9) Kafka with below features:
+### 8) Kafka with below features:
 #### Publish-Subscribe Messaging:
 #####      Utilize Kafka's publish-subscribe model to enable multiple consumers to subscribe to the same topic and receive copies of messages.
 #### Message Serialization:
@@ -59,6 +57,6 @@
 #### Batch Processing:
 #####      Use Kafka for batch processing scenarios by consuming messages from topics that store batches of data.
 
-### 10) Spring Security with below features
+### 9) Spring Security with below features
 ##### JWT token implementation
 ##### Add logout functionality
