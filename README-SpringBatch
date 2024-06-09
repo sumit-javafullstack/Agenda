@@ -1,9 +1,4 @@
 # Spring Batch Concept
-
 ## 1) Spring Batch Basic
 
-### a) Reading from flat file and writing to database
-#### Uses JPARepository to write to database
-###) b) Reading from database and writing to flat file
-#### Reader uses JDBCCursorItemReader which reads data from database efficiently as it uses the concept of pagination
-#### Two Different writer create 1) Separate by delimeter 2) Fixed Lenght filed in the writer
+
