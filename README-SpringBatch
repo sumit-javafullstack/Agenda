@@ -1,5 +1,8 @@
- Spring Batch Concept
+## ----------------SPRINGBOOT-----------------
 
-## Spring Batch Basic
+### 1) SpringBoot Dependency Injection
+##### Creation of custom beans
+##### Access of spring managed beans
+##### Qualifers to acces specific beand for more than 1 implementation
 
 
