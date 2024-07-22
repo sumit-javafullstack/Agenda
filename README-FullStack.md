@@ -1,5 +1,5 @@
 ## ------------FULL_STACK-------------
-## Backend: Spring and Frontend: React
+## Tech Stack: SpringBoot, React, Mongo
 ### Online Shoping App
 ### Online Food Delivery App
 ### Registartion Form App
