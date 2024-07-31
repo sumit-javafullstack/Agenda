@@ -37,6 +37,8 @@
 
 ### 6) Creating Client with Completeable Future and process improvemnet
 
+### 6) Use H2 in memory database and use mapping betwwen tables and explore transaction with lAZY,Cascade etc 
+
 ### 7) Unit Testing and Integration Testing using mockito
 
 
